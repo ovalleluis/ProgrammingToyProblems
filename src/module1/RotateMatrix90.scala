@@ -63,10 +63,9 @@ object RotateMatrix90 {
     
     def main(args: Array[String]) {
       
-    	printMatrix(createMatrix(5));
-    	printMatrix(rotate90(createMatrix(5)));    	
-    	
-    
+    	printMatrix(createMatrix(3));
+    	printMatrix(rotate90(createMatrix(3)));  
+    	   
   
     }
   
